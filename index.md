@@ -1,3 +1,4 @@
 # 生命这一场旅程
 
 > 生如夏花之绚烂，死如秋叶之静美。
+theme: jekyll-theme-cayman
